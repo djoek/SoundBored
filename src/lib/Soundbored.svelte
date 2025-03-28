@@ -653,6 +653,7 @@
           <button
             class="aspect-square p-0 rounded-md relative overflow-hidden pad-button"
             style="
+              order: {pad.row - 12};
               background-color: {pad.color};
               transform: {pad.isPressed ? 'translateY(2px)' : 'translateY(0)'};
               transition: transform 0.05s ease, box-shadow 0.05s ease, filter 0.1s ease;
