@@ -556,7 +556,7 @@
 </script>
 
 <div class="flex min-h-screen flex-col items-center justify-center p-4 bg-gray-900">
-    <h1 class="text-3xl font-bold text-white mb-6">MIDI Sound Board</h1>
+    <h1 class="text-3xl font-bold text-white mb-6">A Sound Bored</h1>
 
     <div class="flex flex-col items-center w-full max-w-4xl gap-6">
         {#if error}
